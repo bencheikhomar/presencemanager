@@ -182,7 +182,7 @@ class DashboardActivity : AppCompatActivity() {
             .setMessage(
                 "Application : PrésenceManager\n" +
                         "Version : 1.0\n" +
-                        "Développeur : Mohamed el HAIRCHE\n" +
+                        "Développeur : Omar Bencheikh\n" +
                         "GitHub : https://github.com/bencheikhomar/presencemanager"
             )
             .setPositiveButton("OK", null)

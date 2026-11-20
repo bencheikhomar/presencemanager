@@ -48,6 +48,6 @@ Implémentation de listes dynamiques et personnalisées en Kotlin :
 
 ## 👨‍💻 Auteur & Informations
 * **Module** : M205 — Développer des interfaces utilisateurs sous Android
-* **Développeur** : Mohamed el HAIRCHE
+* **Développeur** : Omar Bencheikh
 * **Version** : 1.1
 * **Dépôt GitHub** : [PresenceManager sur GitHub](https://github.com/bencheikhomar/presencemanager)
